@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://geonode_x8U35Z5sRH:8287df62-204e-463a-999a-fce1b19a1ce6@premium-residential.geonode.com:10109',
-        'https': 'https://geonode_x8U35Z5sRH:8287df62-204e-463a-999a-fce1b19a1ce6@premium-residential.geonode.com:10109',
+        'http': 'http://geonode_x8U35Z5sRH:8287df62-204e-463a-999a-fce1b19a1ce6@premium-residential.geonode.com:9009',
+        'https': 'https://geonode_x8U35Z5sRH:8287df62-204e-463a-999a-fce1b19a1ce6@premium-residential.geonode.com:9009',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
@@ -26,7 +26,7 @@ print(driver.page_source)
 
 time.sleep(1)
 
-driver.get("https://sepolia-faucet.pk910.de/#/mine/934aa459-ad53-4b18-8991-ad9ad5d124e9")
+driver.get("https://sepolia-faucet.pk910.de/#/mine/4e044e28-5703-4b23-90a8-a395b78624da")
 time.sleep(50)
 
 div_element = driver.find_element(By.CLASS_NAME, "col-3")
