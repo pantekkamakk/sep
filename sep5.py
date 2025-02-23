@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://90b6ecf47722e4db8966__cr.jp:097ab82fe400fe51@gw.dataimpulse.com:10105',
-        'https': 'https://90b6ecf47722e4db8966__cr.jp:097ab82fe400fe51@gw.dataimpulse.com:10105',
+        'http': 'http://sodagar:FGAMRHJ-QQHC7SJ-0RPJ3H1-BOMNLIP-WKACAQO-GWSCKMZ-SET2MG4@unmetered.residential.proxyrack.net:10071',
+        'https': 'https://sodagar:FGAMRHJ-QQHC7SJ-0RPJ3H1-BOMNLIP-WKACAQO-GWSCKMZ-SET2MG4@unmetered.residential.proxyrack.net:10071',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
