@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://90b6ecf47722e4db8966__cr.sg:097ab82fe400fe51@gw.dataimpulse.com:10010',
-        'https': 'https://90b6ecf47722e4db8966__cr.sg:097ab82fe400fe51@gw.dataimpulse.com:10010',
+        'http': 'http://geonode_SkLc1bQLpv:a82cdf57-9913-4e3f-ad13-98739b4805e2@proxy.geonode.io:10010',
+        'https': 'https://geonode_SkLc1bQLpv:a82cdf57-9913-4e3f-ad13-98739b4805e2@proxy.geonode.io:10010',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
